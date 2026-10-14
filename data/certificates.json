@@ -1,0 +1,64 @@
+[
+  {
+    "id": "cert-python",
+    "title": "Python for Beginners",
+    "issuer": "NIELIT",
+    "year": "2025",
+    "desc": "Coursework organized by National Institute of Electronics & Information Technology (NIELIT) covering fundamental Python syntax, control structures, functions, data collections, and foundational scripting.",
+    "skills": [
+      "Python Fundamentals",
+      "Variables & Data Types",
+      "Control Structures",
+      "Functions",
+      "Basic Scripting"
+    ],
+    "file": "",
+    "verificationUrl": ""
+  },
+  {
+    "id": "cert-java",
+    "title": "OOPS through Java",
+    "issuer": "CodeChef",
+    "year": "2026",
+    "desc": "Comprehensive study of Object-Oriented Programming (OOP) paradigms with Java on CodeChef, emphasizing Classes, Inheritance, Polymorphism, Abstraction, and Encapsulation.",
+    "skills": [
+      "Java Basics",
+      "OOP Principles",
+      "Classes & Objects",
+      "Polymorphism",
+      "Inheritance"
+    ],
+    "file": "",
+    "verificationUrl": ""
+  },
+  {
+    "id": "cert-c",
+    "title": "Think in C",
+    "issuer": "GDG on Campus, RCPIT",
+    "year": "2025-2026",
+    "desc": "Technical workshop conducted by Google Developer Groups on Campus at RCPIT, focusing on procedural problem-solving, structured programming, pointers, and memory mechanics in C.",
+    "skills": [
+      "C Programming",
+      "Algorithmic Thinking",
+      "Pointers & Memory",
+      "Problem-Solving"
+    ],
+    "file": "",
+    "verificationUrl": ""
+  },
+  {
+    "id": "cert-converges",
+    "title": "Converges'26 — Certificate of Participation",
+    "issuer": "Team AgriNova, RCPIT",
+    "year": "2026",
+    "desc": "Certificate of Participation in the annual technical flagship symposium Converges'26 at RCPIT under Team AgriNova, contributing technical presentation and team problem solving.",
+    "skills": [
+      "Teamwork",
+      "Technical Innovation",
+      "Presentation",
+      "Collaboration"
+    ],
+    "file": "",
+    "verificationUrl": ""
+  }
+]

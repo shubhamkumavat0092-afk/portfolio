@@ -1,0 +1,187 @@
+{
+  "profile": {
+    "name": "Shubham Rajendra Kumavat",
+    "displayName": "Shubham Kumavat",
+    "title": "AI & Data Science Student",
+    "institution": "R. C. Patel Institute of Technology, Shirpur (RCPIT)",
+    "year": "2nd Year (2025-2029)",
+    "location": "Neri Bk., Tal. Jamner, Dist. Jalgaon, Maharashtra",
+    "studyLocation": "Shirpur, Maharashtra",
+    "email": "shubhamkumavat0092@gmail.com",
+    "phone": "+91 9270040092",
+    "github": "https://github.com/shubhamkumavat0092-afk",
+    "linkedin": "https://www.linkedin.com/in/shubham-kumavat-14868638a",
+    "slogan": "Better Code Bigger Dreams",
+    "careerObjective": "Motivated and enthusiastic B.Tech student in Artificial Intelligence & Data Science seeking opportunities to apply my programming and problem-solving skills, gain practical industry experience, and contribute to meaningful technical projects while continuously learning."
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Artificial Intelligence & Data Science",
+      "shortDegree": "B.Tech - AI & Data Science (2nd Year)",
+      "institution": "R. C. Patel Institute of Technology, Shirpur",
+      "period": "2025 - 2029",
+      "status": "Currently pursuing 2nd Year",
+      "scores": {
+        "sem1": "9.03 SGPA",
+        "sem2": "9.45 SGPA"
+      },
+      "badge": "1st Sem: 9.03 SGPA | 2nd Sem: 9.45 SGPA"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "shortDegree": "12th (HSC)",
+      "institution": "New English School, Jamner",
+      "period": "2024",
+      "status": "Completed",
+      "score": "76.33%",
+      "badge": "76.33%"
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "shortDegree": "10th (SSC)",
+      "institution": "Janata High School & Jr. College, Neri Bk.",
+      "period": "2022",
+      "status": "Completed",
+      "score": "91.60%",
+      "badge": "91.60%"
+    }
+  ],
+  "skills": {
+    "programmingLanguages": [
+      { "name": "C", "level": "Basic", "note": "Basic programming fundamentals, procedural logic, and memory concepts" },
+      { "name": "Java", "level": "Basic", "note": "Object-Oriented Programming (OOPS) fundamentals, classes, and inheritance" }
+    ],
+    "currentlyLearning": [
+      { "name": "Python", "level": "Learning", "note": "Core syntax, data manipulation, scripting, and backend development" },
+      { "name": "SQL", "level": "Learning", "note": "Relational queries, table schemas, SQLite integration" }
+    ],
+    "programmingConcepts": [
+      "Basic programming fundamentals",
+      "Problem-solving and algorithmic thinking",
+      "Object-Oriented Programming (OOP) concepts",
+      "Data structures basics"
+    ],
+    "toolsAndTechnologies": [
+      { "name": "VS Code", "category": "Editor" },
+      { "name": "Git & GitHub", "category": "Version Control" },
+      { "name": "Flask", "category": "Python Web Framework" },
+      { "name": "SQLite", "category": "Database (Planned)" }
+    ],
+    "softSkills": [
+      "Communication",
+      "Teamwork",
+      "Problem-Solving",
+      "Time Management",
+      "Leadership",
+      "Adaptability",
+      "Quick Learning",
+      "Creativity"
+    ]
+  },
+  "certifications": [
+    {
+      "id": "cert-1",
+      "title": "Python for Beginners",
+      "issuer": "NIELIT",
+      "year": "2025",
+      "description": "Comprehensive course covering fundamental Python syntax, data types, control flow structures, functions, and introductory scripting.",
+      "skillsCovered": ["Python Basics", "Control Flow", "Functions", "Basic Scripting"]
+    },
+    {
+      "id": "cert-2",
+      "title": "OOPS through Java",
+      "issuer": "CodeChef",
+      "year": "2026",
+      "description": "Specialized coursework focusing on core Object-Oriented Programming principles including Encapsulation, Inheritance, Polymorphism, and Abstraction using Java.",
+      "skillsCovered": ["Java", "OOP Principles", "Classes & Objects", "Polymorphism", "Inheritance"]
+    },
+    {
+      "id": "cert-3",
+      "title": "Think in C",
+      "issuer": "GDG on Campus, RCPIT",
+      "year": "2025-2026",
+      "description": "Hands-on programming workshop organized by Google Developer Groups on Campus at RCPIT, focusing on problem-solving paradigms and structured programming in C.",
+      "skillsCovered": ["C Programming", "Algorithmic Thinking", "Pointers & Arrays", "Problem Solving"]
+    },
+    {
+      "id": "cert-4",
+      "title": "Converges'26 — Certificate of Participation",
+      "issuer": "Team AgriNova, RCPIT",
+      "year": "2026",
+      "description": "Participated in the annual technical symposium Converges'26 under Team AgriNova, demonstrating innovation, collaboration, and applied technology skills.",
+      "skillsCovered": ["Technical Presentation", "Innovation", "Collaboration", "Teamwork"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "rcpit-chatbot",
+      "title": "RCPIT College Query Chatbot",
+      "category": "Web App / AI Chatbot",
+      "status": "Ongoing (30% Complete)",
+      "isFeatured": true,
+      "repoUrl": "https://github.com/shubhamkumavat0092-afk/RCPIT-College-Query-Chatbot",
+      "liveUrl": null,
+      "description": "An AI-based chatbot developed for R. C. Patel Institute of Technology, Shirpur to assist prospective students, parents, and visitors with instant college-related queries.",
+      "keyHighlights": [
+        "Developed a chatbot interface to provide structured college information and answer student queries using an RCPIT knowledge base.",
+        "Organizing college information (departments, admission process, CAP cutoffs, fees, faculty, and facilities) into a structured dataset for accurate query retrieval.",
+        "Applying programming and AI-related concepts with Python Flask backend architecture."
+      ],
+      "techStack": ["Python", "Flask", "HTML5", "CSS3", "JavaScript", "SQLite (Planned)", "Knowledge Base"],
+      "team": [
+        { "name": "Shubham Rajendra Kumavat", "role": "Lead / Developer" },
+        { "name": "Jidnyesha Bharat Patil", "role": "Team Member" },
+        { "name": "Soham Kailas Borole", "role": "Team Member" },
+        { "name": "Sneha Manoj Barade", "role": "Team Member" }
+      ],
+      "architecture": {
+        "frontend": "Responsive web client built with HTML5, CSS3, and modern JavaScript for smooth messaging and suggestions.",
+        "backend": "Python Flask microservice handling API requests, input sanitization, and intent dispatch.",
+        "knowledgeBase": "Structured information files containing verified RCPIT data on departments, fees, admissions, and campus amenities.",
+        "database": "SQLite integration (currently planned / in progress) for query history, telemetry, and unresolved question logging."
+      }
+    }
+  ],
+  "faq": [
+    {
+      "keywords": ["who are you", "who is shubham", "about shubham", "tell me about yourself", "introduce", "intro", "bio"],
+      "answer": "Shubham Rajendra Kumavat is a dedicated 2nd-year B.Tech student in Artificial Intelligence & Data Science at R. C. Patel Institute of Technology (RCPIT), Shirpur. He has achieved stellar academic scores (9.03 SGPA in 1st Semester and 9.45 SGPA in 2nd Semester) and is passionate about Python, SQL, web development, and practical AI applications."
+    },
+    {
+      "keywords": ["skills", "technical skills", "languages", "tech stack", "what can he do", "programming"],
+      "answer": "Shubham's technical skills include C (Basic) and Java (Basic), with strong fundamentals in Object-Oriented Programming and problem-solving. He is actively learning Python and SQL for data analysis and backend engineering. His toolset includes VS Code, Git & GitHub, and Flask."
+    },
+    {
+      "keywords": ["project", "chatbot", "rcpit chatbot", "college query chatbot", "featured project"],
+      "answer": "Shubham is developing the 'RCPIT College Query Chatbot', an AI-based system designed to help prospective students and visitors navigate college admissions, departments, fees, and campus life at R. C. Patel Institute of Technology, Shirpur. It is built with Python, Flask, HTML, CSS, JavaScript, and an organized knowledge base (currently at 30% progress)."
+    },
+    {
+      "keywords": ["education", "college", "marks", "sgpa", "cgpa", "school", "hsc", "ssc", "grade"],
+      "answer": "Shubham's education details:\n• B.Tech in AI & Data Science at RCPIT, Shirpur (2025–2029): 1st Sem SGPA: 9.03 | 2nd Sem SGPA: 9.45\n• HSC (12th) at New English School, Jamner: 76.33%\n• SSC (10th) at Janata High School & Jr. College, Neri Bk.: 91.60%"
+    },
+    {
+      "keywords": ["certificate", "certifications", "workshops", "achievements", "courses"],
+      "answer": "Shubham's verified certifications include:\n1. Python for Beginners — NIELIT (2025)\n2. OOPS through Java — CodeChef (2026)\n3. Think in C — GDG on Campus, RCPIT\n4. Converges'26 Participation — Team AgriNova, RCPIT"
+    },
+    {
+      "keywords": ["contact", "email", "phone", "reach", "hire", "message", "address", "location"],
+      "answer": "You can contact Shubham directly via:\n• Email: shubhamkumavat0092@gmail.com\n• Phone: +91 9270040092\n• Location: Neri Bk., Tal. Jamner, Dist. Jalgaon, Maharashtra\n• LinkedIn: linkedin.com/in/shubham-kumavat-14868638a\n• GitHub: github.com/shubhamkumavat0092-afk"
+    },
+    {
+      "keywords": ["resume", "download resume", "cv"],
+      "answer": "You can download Shubham's official resume by clicking the 'Download Resume' button at the top right of the page or in the hero section! The file downloaded is 'Shubham_Rajendra_Kumavat_Resume.pdf'."
+    },
+    {
+      "keywords": ["github", "github profile", "github repo"],
+      "answer": "Shubham's GitHub profile is https://github.com/shubhamkumavat0092-afk where you can view his projects, including the RCPIT-College-Query-Chatbot repository."
+    },
+    {
+      "keywords": ["linkedin", "linkedin profile"],
+      "answer": "Connect with Shubham on LinkedIn at https://www.linkedin.com/in/shubham-kumavat-14868638a."
+    },
+    {
+      "keywords": ["exploring", "currently exploring", "learning interests", "interests", "what is he learning"],
+      "answer": "Shubham is currently actively exploring Python Programming, Artificial Intelligence, Machine Learning, and Web Development alongside his B.Tech in AI & Data Science coursework at RCPIT."
+    }
+  ]
+}
